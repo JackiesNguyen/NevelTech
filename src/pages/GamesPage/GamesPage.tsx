@@ -1,6 +1,5 @@
 import { filterIcon, searchIcon } from "@/assets";
 import Banner from "@/components/Banner/Banner";
-import Button from "@/components/Button";
 import WrapperContainer from "@/components/WrapperContainer";
 import { GAME_NAV_LINKS } from "@/constants/navLinks";
 import cn from "@/libs/utils";
