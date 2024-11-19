@@ -1,0 +1,10 @@
+.hottestCategory .slick-dots li button:before {
+  top: 10px;
+  color: #9b9b9b;
+  font-size: 12px;
+}
+
+.hottestCategory .slick-dots li.slick-active button:before {
+  border: 1px solid black;
+  border-radius: 50%;
+}
